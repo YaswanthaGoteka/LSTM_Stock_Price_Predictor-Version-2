@@ -128,9 +128,13 @@ This formulation avoids many issues associated with direct price regression on n
 
 ### Example Output:
 Using device: cuda
+
 Filtered Directional Accuracy : 61.4%
+
 Trades Taken                 : 27.8%
+
 Latest Probability (UP)       : 0.612
+
 TRADING SIGNAL                : BUY
 
 ### Project Goal:
