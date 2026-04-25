@@ -78,16 +78,11 @@ This setup simulates real-world deployment and avoids look-ahead bias.
 
 ## Example Output
 Using device: cuda
-
-======================================================================
-DIRECTIONAL SIGNAL RESULTS
-----------------------------------------------------------------------
 Ticker: GOOGL
 Filtered Directional Accuracy : 61.40%
 Trades Taken                 : 27.80%
 Latest Probability (UP)       : 0.612
 TRADING SIGNAL                : BUY
-======================================================================
 
 ## Tech Stack
 - Python
